@@ -38,7 +38,7 @@ footer{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center right;
-    height: 200px;
+    height: fit-content;
     text-align: center;
 }
 #showcase h1{
@@ -53,4 +53,7 @@ footer{
 }
 .size1{
     font-size: 28px;
+}
+br{
+    margin: 20px;
 }
